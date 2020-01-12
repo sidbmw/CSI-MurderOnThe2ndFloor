@@ -7,7 +7,7 @@ Martello forensic data analytic challenge
 https://martellotech.com/cuhacking/
 
 ## What it does
-A tool to help the forensic team to simulate crime scenes and analyze the suspects by their behaviour based on time and space.
+A tool to help the forensic team to simulate crime scenes and analyze the suspects by their behaviour based on time and space.<br>
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/908/737/datas/gallery.jpg)
 
 ## How We built it
